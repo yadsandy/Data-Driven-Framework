@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/cglib-nodep-3.2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-codec-1.10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-exec-1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-io-2.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-lang3-3.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/cssparser-0.9.22.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/gson-2.8.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/guava-21.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/hamcrest-core-1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/htmlunit-2.26.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/htmlunit-core-js-2.26.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/htmlunit-driver-2.26.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/httpclient-4.5.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/httpcore-4.4.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/httpmime-4.5.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/javax.servlet-api-3.1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jetty-io-9.4.1.v20170120.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jetty-util-9.4.1.v20170120.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jna-4.1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jna-platform-4.1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/junit-4.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/neko-htmlunit-2.25.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/phantomjsdriver-1.4.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/sac-1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/serializer-2.7.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/websocket-api-9.4.3.v20170317.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/websocket-client-9.4.3.v20170317.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/websocket-common-9.4.3.v20170317.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/xalan-2.7.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/xercesImpl-2.11.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/xml-apis-1.4.01.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/selenium-server-standalone-3.4.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/testng-6.9.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-codec-1.10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-collections4-4.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/junit-4.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/log4j-1.2.17.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-examples-3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-excelant-3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-ooxml-3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-ooxml-schemas-3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-scratchpad-3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../Jars/jxl-2.6.10.jar!/" />
+    <conelement value="org.testng.TESTNG_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
+    <orderEntry type="library" name="org.testng.TESTNG_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="cglib-nodep-3.2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/cglib-nodep-3.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-exec-1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-exec-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-io-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-lang3-3.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cssparser-0.9.22.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/cssparser-0.9.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.8.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/gson-2.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-21.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/guava-21.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="htmlunit-2.26.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/htmlunit-2.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="htmlunit-core-js-2.26.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/htmlunit-core-js-2.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="htmlunit-driver-2.26.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/htmlunit-driver-2.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/httpclient-4.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/httpcore-4.4.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime-4.5.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/httpmime-4.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet-api-3.1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/javax.servlet-api-3.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-io-9.4.1.v20170120.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jetty-io-9.4.1.v20170120.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util-9.4.1.v20170120.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jetty-util-9.4.1.v20170120.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jna-4.1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jna-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jna-platform-4.1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/jna-platform-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="neko-htmlunit-2.25.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/neko-htmlunit-2.25.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="phantomjsdriver-1.4.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/phantomjsdriver-1.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sac-1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/sac-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="serializer-2.7.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/serializer-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-api-9.4.3.v20170317.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/websocket-api-9.4.3.v20170317.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-client-9.4.3.v20170317.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/websocket-client-9.4.3.v20170317.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-common-9.4.3.v20170317.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/websocket-common-9.4.3.v20170317.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xalan-2.7.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/xalan-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl-2.11.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/xercesImpl-2.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xml-apis-1.4.01.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/lib/xml-apis-1.4.01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="client-combined-3.4.0-nodeps.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="selenium-server-standalone-3.4.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/selenium-server-standalone-3.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="testng-6.9.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/selenium-java-3.4.0/testng-6.9.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections4-4.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-collections4-4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$MODULE_DIR$/../../../Jars/poi-3.15/lib/junit-4.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/lib/log4j-1.2.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-examples-3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-examples-3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-excelant-3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-excelant-3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-ooxml-3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-schemas-3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-ooxml-schemas-3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-scratchpad-3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/poi-3.15/poi-scratchpad-3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxl-2.6.10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Jars/jxl-2.6.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

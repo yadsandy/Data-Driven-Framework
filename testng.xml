@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Testing">
+	<listeners>
+		<listener class-name="screenshot.ScreenshotOnFailure" />
+		<listener class-name="screenshot.ResultListener" />
+	</listeners>
+	<test name="Data Driven Framework">
+		<parameter name="baseURL" value="https://accounts.google.com/signin/v2/identifier" />
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="test.LoginTest"></class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
